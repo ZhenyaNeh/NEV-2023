@@ -1,0 +1,17 @@
+﻿  Error.cpp
+  FST.cpp
+  Generator.cpp
+D:\University\CourseProject\NEV-2023\Generator.cpp(189,17): warning C4129: m: неизвестная escape-последовательность
+  GRB.cpp
+  In.cpp
+  IT.cpp
+  Lexer.cpp
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+  NEV-2023.cpp
+  Parm.cpp
+  PolishNotation.cpp
+  SemAnalysis.cpp
+  Создание кода...
+  NEV-2023.vcxproj -> D:\University\CourseProject\Debug\NEV-2023.exe
